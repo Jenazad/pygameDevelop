@@ -10,19 +10,19 @@
 
 # AsteroidoMeow
 
-Juego de lluvia de asteorides realizado en un curso de Algoritmos usando la libreria pygame.
+Asteroid rain game done in a course of Algorithms using the pygame library.
 
-Ejecutar:
+Exec:
 
     python Asteroidomeow.py
 
 # binaryAllocation
 
-Simulacion del almacenamiento de un numero en formato IEEE segun la maquina en la que se haga la prueba.
+Simulation of the storage of a number in the IEEE format according to the machine in which the test is done.
 
-Ejecutar:
+Exec:
 
     python binaryAllocation.py
 
-Notar que esta simulación hace uso de la librería implementada en numerical Analysis la carpeta "computerAritm"
 
+This simulation use the numerical Analysis library that it was implement in my another repository [NumericalAnalysis](https://github.com/Jenazad/numericalAnalysis/)
