@@ -1,6 +1,6 @@
 # pyGame
 
-[![](https://scontent.flim1-1.fna.fbcdn.net/v/t34.0-12/16652046_10211758459708039_1744960778_n.png?oh=d780003a1dfc60f8e6a66fdcecf78535&oe=58A028F6)](www.pygame.org/)
+[![](https://scontent.flim1-1.fna.fbcdn.net/v/t1.0-9/17264195_10212119594016171_990500761814076360_n.jpg?oh=5aa70214175c690baf1c8cb7306737ae&oe=595AA457)](www.pygame.org/)
 
 ## Installing pyGame
 
