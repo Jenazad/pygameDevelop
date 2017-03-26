@@ -623,6 +623,6 @@ def main():
         boton2.update(pantalla,cursor1)
         pygame.display.update()
     pygame.quit()
-main()
 
-if __name__ == " __main__" : main()
+if __name__ == " __main__" :
+    main()
